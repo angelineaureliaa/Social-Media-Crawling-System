@@ -172,8 +172,8 @@ def fetch_instagram_posts_with_details(username, password, keyword):
     # print(f"Crawled {len(posts)} posts.")
     return posts
 
-username = "labubusurabayaa"
-password = "juallabubusurabaya"
+username = "xxx"
+password = "xxx"
 #keyword = "prabowo gibran"
 keyword = sys.argv[1]
 keyword=keyword.replace("#"," ")
